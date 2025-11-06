@@ -84,6 +84,6 @@ Um e-book multimodal que o leitor pode **ler, ouvir e compreender**, usando o po
 ## 🧑‍💻 Autor  
 **Rapha.DEV**  
 Entusiasta de IA, desenvolvedor e explorador do futuro digital.  
-💼 [Seu GitHub](https://github.com/RaphaelCarvalh) | 🌐 [LinkedIn](https://www.linkedin.com/in/raphaelmcarvalho/)
+💼 [GitHub](https://github.com/RaphaelCarvalh) | 🌐 [LinkedIn](https://www.linkedin.com/in/raphaelmcarvalho/)
 
 ---
