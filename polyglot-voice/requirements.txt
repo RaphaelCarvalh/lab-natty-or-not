@@ -1,0 +1,13 @@
+gradio==4.44.0
+openai==1.52.0
+deep-translator==1.11.4
+transformers==4.44.2
+torch==2.4.1
+sounddevice==0.5.3
+scipy==1.13.1
+gtts==2.5.4
+pygame==2.6.1
+python-dotenv==1.0.1
+huggingface_hub==0.25.2
+httpx==0.24.1
+httpcore==0.17.3

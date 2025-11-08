@@ -1,0 +1,32 @@
+# ===============================
+# ARQUIVOS SENSÍVEIS E TEMPORAIS
+# ===============================
+
+# Ambiente e chaves secretas
+.env
+.env.local
+*.key
+*.pem
+
+# Cache e logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Dados de áudio temporários
+entrada.wav
+saida.mp3
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema / macOS / Linux
+.DS_Store
+Thumbs.db
