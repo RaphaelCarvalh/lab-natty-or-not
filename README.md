@@ -23,7 +23,7 @@ A IA entende o idioma, traduz, e identifica o sentimento (positivo, neutro ou ne
 2. Conversão de fala para texto com Whisper.  
 3. Tradução automática entre PT/EN.  
 4. Análise de sentimento da fala e do texto.  
-5. Exibição dos resultados com cores e emojis representando emoções.  
+5. Exibição dos resultados com status e emojis representando emoções.  
 
 ### 🚀 Resultados  
 Um sistema que entende **o que você diz e como você se sente ao dizer** — uma aplicação prática de **IA multimodal e empática**.  
