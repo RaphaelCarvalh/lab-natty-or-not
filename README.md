@@ -1,4 +1,7 @@
 # 🎙️ Lab Natty or Not — IAs Generativas em Ação  
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
+  <img src="https://lh3.googleusercontent.com/d/1Oib52qS0Cy6e5TwLKI6Xq2kQ7hXYa2jU" alt="Collection" style="width: 800px; height: 400px; object-fit: cover; border-radius: 8px;">
+</div>
 
 ## 📒 Descrição  
 Este repositório reúne **três projetos práticos** desenvolvidos com **IAs Generativas**, explorando o poder da linguagem, da voz e da emoção.  
